@@ -6,3 +6,9 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+Dato un array di oggetti contenente i linguaggi del web e le loro descrizioni:
+
+- Crea una lista di bottoni, uno per  linguaggio.
+- Inserisci sotto una card che mostri il titolo e la descrizione del primo linguaggio nell’array.
+- Fare in modo che, cliccando uno dei bottoni, la card in basso visualizzi il linguaggio corrispondente e la relativa descrizione
